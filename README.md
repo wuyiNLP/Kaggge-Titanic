@@ -1,5 +1,4 @@
-# Kaggge-Titanic<br/>	
-Kaggle_Titanic解答<br/>	
+# Kaggge-Titanic解答<br/>	
 
 导入需要的库
 ```
